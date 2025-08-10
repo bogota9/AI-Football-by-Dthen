@@ -1,0 +1,6 @@
+{
+  "name": "AI Football by Dthen",
+  "description": "An advanced tool to fetch daily football matches, filter them using AI-driven criteria, and generate detailed pre-match analysis reports for betting insights.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
